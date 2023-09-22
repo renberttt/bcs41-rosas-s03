@@ -1,0 +1,9 @@
+F:\Game Dev\bcs41-rosas\s03\.mono\temp\bin\Debug\s03.dll
+F:\Game Dev\bcs41-rosas\s03\.mono\temp\bin\Debug\s03.pdb
+F:\Game Dev\bcs41-rosas\s03\.mono\temp\obj\Debug\s03.csproj.AssemblyReference.cache
+F:\Game Dev\bcs41-rosas\s03\.mono\temp\obj\Debug\s03.GeneratedMSBuildEditorConfig.editorconfig
+F:\Game Dev\bcs41-rosas\s03\.mono\temp\obj\Debug\s03.AssemblyInfoInputs.cache
+F:\Game Dev\bcs41-rosas\s03\.mono\temp\obj\Debug\s03.AssemblyInfo.cs
+F:\Game Dev\bcs41-rosas\s03\.mono\temp\obj\Debug\s03.csproj.CoreCompileInputs.cache
+F:\Game Dev\bcs41-rosas\s03\.mono\temp\obj\Debug\s03.dll
+F:\Game Dev\bcs41-rosas\s03\.mono\temp\obj\Debug\s03.pdb
